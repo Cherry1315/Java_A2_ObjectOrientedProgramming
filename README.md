@@ -7,5 +7,5 @@ This project was part of a university assessment where the following concepts we
 - Reading from a file
 - Lock() and unlock() methods 
 
-**Grade:** High Distinction (90%). 
+**Grade:** High Distinction (90%).  
 *Note:* Minor improvements could have been made to lists and queue interface for a perfect score (100%).
