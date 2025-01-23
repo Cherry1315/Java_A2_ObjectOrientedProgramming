@@ -8,4 +8,4 @@ This project was part of a university assessment where the following concepts we
 - Lock() and unlock() methods 
 
 **Grade:** High Distinction (90%). 
-*Note:* There are minor inprovments that could have been made to the lists and queue interface for a perfect score (100%).
+*Note:* Minor improvements could have been made to lists and queue interface for a perfect score (100%).
