@@ -1,4 +1,4 @@
-# University assessment (SRC Files Only!)
+# University assessment
 This project was part of a university assessment where the following concepts were evaluated:
 - Lists
 - Queue interface
